@@ -1,0 +1,86 @@
+{
+  "Index": {
+    "page_title": "Pagrindinis",
+    "title": "Neverlose automatinė parduotuvė",
+    "title_description": "Greita, automatiška ir patogi parduotuvė",
+    "neverlose_subscripton": "Neverlose prenumeratas",
+    "items_description": "Kad peržiūrėti produktą pereikite į ",
+    "days": "dienos",
+    "buy_now": "Pirkti"
+  },
+  "Checkout": {
+    "title": "Mokėjimas",
+    "cart": {
+      "title": "Atsiskaitymas",
+      "item_name": {
+        "sub": "Neverlose prenumeratas",
+        "nle": "Neverlose NLE"
+      },
+      "item_description": "Jūs gausite savo prekę automatiškai",
+      "total": "Bendra suma"
+    },
+    "information": {
+      "title": "Informacija",
+      "form": {
+        "username": {
+          "label": "NEVERLOSE SLAPYVARDIS",
+          "placeholder": "Slapyvardis"
+        },
+        "email": {
+          "label": "El. paštas",
+          "placeholder": "Paštas"
+        }
+      }
+    },
+    "payment_method": {
+      "title": "Atsiskaitymo būdas",
+      "tos_agree": "Aš sutinku su taisyklėm"
+    },
+    "proceed_button": "Tęsti"
+  },
+  "Receipt": {
+    "title": "Čekis",
+    "information": {
+      "title": "Informacija",
+      "text": "Jai ivyko klaida prašome susisiekti su mumis discord serveryje."
+    },
+    "receipt_section": {
+      "total": "bendra",
+      "items": {
+        "nle": "Neverlose {quantity} NLE",
+        "sub": "Neverlose {quantity} dienų prenumeratas"
+      }
+    },
+    "status_section": {
+      "status": "Statusas",
+      "statuses": {
+        "pending": "Laukiama",
+        "successful": "Įvykdytasl",
+        "failed": "Nepavykęs",
+        "expired": "Išsekęs",
+        "refunded": "Grąžintas"
+      },
+      "review_text": "Būtume dėkingi už jūsų atsiliepima apie mūsų parduotuvę"
+    },
+    "buttons": {
+      "review": "Palikti atsiliepimą forume",
+      "discord": "Gauti role discorde"
+    }
+  },
+  "Notifications": {
+    "wrong_username": "Tokio slapyvardžio nėra NeverLose platformoje",
+    "checking_information": "Sutikriname informacija",
+    "redirect_stripe": "Persiunčiame jūs į mokėjimo lauką"
+  },
+  "Footer": {
+    "legal": {
+      "row_title": "Veikla",
+      "public_offer": "Apie mus",
+      "contacts": "Kontaktai",
+      "privacy_policy": "Politika"
+    },
+    "socials": {
+      "row_title": "Soc. tinklai"
+    }
+  }
+}

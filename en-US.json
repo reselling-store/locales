@@ -1,0 +1,86 @@
+{
+  "Index": {
+    "page_title": "Main",
+    "title": "Neverlose automatic reselling service",
+    "title_description": "Fast, automatic and comfortable NeverLose reselling system",
+    "neverlose_subscripton": "Neverlose subscription",
+    "items_description": "To view the product continue to ",
+    "days": "days",
+    "buy_now": "BUY NOW"
+  },
+  "Checkout": {
+    "title": "Payment",
+    "cart": {
+      "title": "Checkout",
+      "item_name": {
+        "sub": "Neverlose Subscription",
+        "nle": "Neverlose NLE"
+      },
+      "item_description": "You will receive item(s) automatically",
+      "total": "Total"
+    },
+    "information": {
+      "title": "Information",
+      "form": {
+        "username": {
+          "label": "NEVERLOSE USERNAME",
+          "placeholder": "Username"
+        },
+        "email": {
+          "label": "EMAIL",
+          "placeholder": "Email"
+        }
+      }
+    },
+    "payment_method": {
+      "title": "Payment method",
+      "tos_agree": "I AGREE WITH PUBLIC OFFER"
+    },
+    "proceed_button": "Proceed"
+  },
+  "Receipt": {
+    "title": "Receipt",
+    "information": {
+      "title": "Information",
+      "text": "If you have not received item(s) or have any questions, please create a ticket in our Discord server."
+    },
+    "receipt_section": {
+      "total": "Total",
+      "items": {
+        "nle": "Neverlose {quantity} NLE",
+        "sub": "Neverlose {quantity} days subscription"
+      }
+    },
+    "status_section": {
+      "status": "Status",
+      "statuses": {
+        "pending": "Pending",
+        "successful": "Successful",
+        "failed": "Failed",
+        "expired": "Expired",
+        "refunded": "Refunded"
+      },
+      "review_text": "We will be very grateful if you will leave a review about our service"
+    },
+    "buttons": {
+      "review": "Leave a review on the forum",
+      "discord": "Get Discord role"
+    }
+  },
+  "Notifications": {
+    "wrong_username": "There is no such username in NeverLose",
+    "checking_information": "Checking information",
+    "redirect_stripe": "Redirecting to Stripe"
+  },
+  "Footer": {
+    "legal": {
+      "row_title": "Legal",
+      "public_offer": "Public offer",
+      "contacts": "Contacts",
+      "privacy_policy": "Privacy policy"
+    },
+    "socials": {
+      "row_title": "Social networks"
+    }
+  }
+}

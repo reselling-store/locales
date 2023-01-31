@@ -1,0 +1,85 @@
+{
+  "Index": {
+    "page_title": "Главная",
+    "title": "Neverlose automatic reselling service",
+    "title_description": "Быстрый, автоматический и удобный сервис покупки NeverLose",
+    "neverlose_subscripton": "Подписка NeverLose",
+    "items_description": "Для просмотра продукта перейдите на ",
+    "days": "дней",
+    "buy_now": "КУПИТЬ"
+  },
+  "Checkout": {
+    "title": "Оплата",
+    "cart": {
+      "title": "Корзина",
+      "item_name": {
+        "sub": "Подписка Neverlose",
+        "nle": "Neverlose NLE"
+      },
+      "item_description": "Вы получите товар автоматически",
+      "total": "Итого"
+    },
+    "information": {
+      "title": "Информация",
+      "form": {
+        "username": {
+          "label": "ИМЯ ПОЛЬЗОВАТЕЛЯ",
+          "placeholder": "Имя пользователя"
+        },
+        "email": {
+          "label": "EMAIL",
+          "placeholder": "Email"
+        }
+      }
+    },
+    "payment_method": {
+      "title": "Методы оплаты",
+      "tos_agree": "Я СОГЛАСЕН С ПУБЛИЧНОЙ ОФЕРТОЙ"
+    },
+    "proceed_button": "Перейти на страницу оплаты"
+  },
+  "Receipt": {
+    "title": "Чек",
+    "information": {
+      "title": "Информация",
+      "text": "Если вы не получили товар или имеете какие-либо вопросы, то создайте тикет в нашем Discord канале."
+    },
+    "receipt_section": {
+      "total": "Итого",
+      "items": {
+        "nle": "Neverlose {quantity} NLE",
+        "sub": "Подписка Neverlose {quantity} дней"
+      }
+    },
+    "status_section": {
+      "status": "Статус",
+      "statuses": {
+        "pending": "В ожидании",
+        "successful": "Успешно",
+        "failed": "Не удалось",
+        "expired": "Просрочено",
+        "refunded": "Средства возвращены"
+      },
+      "review_text": "Мы будем очень рады, если вы оставите отзыв о нашем сервисе"
+    },
+    "buttons": {
+      "review": "Оставить отзыв на форуме",
+      "discord": "Получить роль в Discord"
+    }
+  }, "Notifications": {
+    "wrong_username": "Неверное имя пользователя Neverlose",
+    "checking_information": "Проверяем информацию",
+    "redirect_stripe": "Перенаправляем в Stripe"
+  },
+  "Footer": {
+    "legal": {
+      "row_title": "Документы",
+      "public_offer": "Публичная оферта",
+      "contacts": "Контакты",
+      "privacy_policy": "Политика конфиденциальности"
+    },
+    "socials": {
+      "row_title": "Социальные сети"
+    }
+  }
+}
